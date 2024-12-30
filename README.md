@@ -25,16 +25,11 @@
 
 A **Pokédex API** é uma aplicação desenvolvida para fornecer informações sobre os Pokémon. Utilizando uma interface intuitiva e responsiva, é ideal para desenvolvedores e entusiastas que desejam integrar dados de Pokémon em seus projetos ou aprender mais sobre o mundo dos Pokémon.
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/figma%20-%23FFCB05.svg?&style=for-the-badge&logo=figma&logoColor=black" alt="Figma">
-</p>
 
 <br>
 
 <p align="center">
-  <img src=".github/Pokedex/cover.png" alt="Exemplo da Pokédex API">
+  <img src="Pokedex/cover.png" alt="Exemplo da Pokédex API">
 </p>
 
 ## Tecnologias
