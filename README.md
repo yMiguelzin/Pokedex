@@ -19,9 +19,6 @@
 
 [Licença](#licença)
 
-<br>
-<br>
-
 ## Sobre a Pokédex API
 
 A **Pokédex API** é uma aplicação desenvolvida para fornecer informações sobre os Pokémon. Utilizando uma interface intuitiva e responsiva, é ideal para desenvolvedores e entusiastas que desejam integrar dados de Pokémon em seus projetos ou aprender mais sobre o mundo dos Pokémon.
