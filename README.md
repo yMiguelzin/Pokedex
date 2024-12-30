@@ -54,7 +54,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por [Miguel Preto](https://github.com/yMiguelzin)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Seu%20Nome-FFCB05?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/seu-perfil/)](https://www.linkedin.com/in/seu-perfil/) 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-FFCB05?style=flat-square&logo=Gmail&logoColor=black&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Preto-FFCB05?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/miguel-henrique-m/)](https://www.linkedin.com/in/miguel-henrique-m/) 
+[![Gmail Badge](https://img.shields.io/badge/-miguelhclpimoveis@gmail.com-FFCB05?style=flat-square&logo=Gmail&logoColor=black&link=mailto:miguelhclpimoveis@gmail.com)](mailto:miguelhclpimoveis@gmail.com)
