@@ -30,6 +30,7 @@ A **Pokédex API** é uma aplicação desenvolvida para fornecer informações s
 
 <br>
 
+
 <p align="center">
   <img src="cover.png" alt="Exemplo da Pokédex API">
 </p>
@@ -42,7 +43,9 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 - [CSS](https://devdocs.io/css/)
 - [Javascript](https://devdocs.io/javascript/)
 
+
 <br>
+
 
 ## Licença
 <a href="https://opensource.org/licenses/MIT">
