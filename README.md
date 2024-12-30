@@ -14,6 +14,7 @@
 ## Tópicos 
 
 <br>
+<br>
 
 [Sobre a Pokédex API](#sobre-a-pokédex-api)
 
@@ -21,6 +22,7 @@
 
 [Licença](#licença)
 
+<br>
 <br>
 
 ## Sobre a Pokédex API
