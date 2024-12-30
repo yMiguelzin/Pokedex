@@ -11,6 +11,9 @@
 
 <img align="right" src="icon.png" width="35%" alt="Pokédex API">
 
+<br>
+<br>
+
 ## Tópicos 
 
 <br>
