@@ -34,7 +34,7 @@ A **Pokédex API** é uma aplicação desenvolvida para fornecer informações s
 <br>
 
 <p align="center">
-  <img src=".github/cover.png" alt="Exemplo da Pokédex API">
+  <img src=".github/Pokedex/cover.png" alt="Exemplo da Pokédex API">
 </p>
 
 ## Tecnologias
