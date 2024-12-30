@@ -11,7 +11,7 @@
 
 ## Tópicos 
 
-<img align="right" src="icon.png" width="15%" eight="15%" alt="Pokédex API">
+<img align="right" src="icon.png" width="15%" alt="Pokédex API">
 
 [Sobre a Pokédex API](#sobre-a-pokédex-api)
 
@@ -28,7 +28,7 @@ A **Pokédex API** é uma aplicação desenvolvida para fornecer informações s
 
 
 <p align="center">
-  <img src="cover.png" alt="Exemplo da Pokédex API">
+  <img src="cover.png" width="30%" alt="Exemplo da Pokédex API">
 </p>
 
 ## Tecnologias
