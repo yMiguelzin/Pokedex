@@ -9,10 +9,9 @@
   </a>
 </p>
 
-<br>
-<img align="right" src="icon.png" width="15%" eight="15%" alt="Pokédex API">
-
 ## Tópicos 
+
+<img align="right" src="icon.png" width="15%" eight="15%" alt="Pokédex API">
 
 [Sobre a Pokédex API](#sobre-a-pokédex-api)
 
