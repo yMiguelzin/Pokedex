@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" src=".github/icon.svg" width="35%" alt="Pokédex API">
+<img align="right" src="icon.png" width="35%" alt="Pokédex API">
 
 ## Tópicos 
 
