@@ -1,9 +1,9 @@
 # Pokédex API
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-Miguel%20Preto-FFCB05?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yMiguelzin/pokedex-api?color=FFCB05&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/yMiguelzin/pokedex-api?color=FFCB05&style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-MIGUEL%20PRETO-FFCB05?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yMiguelzin/Pokedex?color=FFCB05&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/yMiguelzin/Pokedex?color=FFCB05&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-FFCB05?style=flat-square">
   </a>
